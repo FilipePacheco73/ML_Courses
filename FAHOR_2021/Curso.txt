@@ -1,0 +1,31 @@
+Parte I - Introdução
+1 - O que é Machine Learning
+1.1 Explicar o que é IA e Machine Learning
+1.2 Dar exemplos
+
+Parte II - Ferramentas
+2 -  Frameworks e ferramentas para Machine Learning
+2.1 Anaconda
+2.2 Jupyter Notebook
+2.3 Spyder
+2.4 Orange
+2.5 Apresentação de Repositórios para aprendizado
+
+Parte III - Aprendizado Supervisionado
+3 - Regressão e Classificação
+3.1 Exemplo Linear e Não linear
+
+4 - Redes Neurais Artificiais
+4.1 Explicação
+4.2 Sci-kit Learn Library
+4.3 Exemplo
+
+Parte IV - Aprendizado Não Supervisionado
+5 - Data Mining com Orange
+5.1 Explicação
+
+Parte V - Deploy your application - ML com Front-end
+6 - Streamlit Library
+6.1 Explicação e exemplos
+
+
