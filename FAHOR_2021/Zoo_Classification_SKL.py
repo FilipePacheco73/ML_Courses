@@ -2,7 +2,7 @@
 """
 Created on Sat Oct 30 09:45:49 2021
 
-@author: filip
+@author: Filipe Pacheco
 
 Criar uma RNA capaz de classificar animais em um Zoo baseado em suas características
 

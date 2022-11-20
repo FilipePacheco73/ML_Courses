@@ -2,7 +2,7 @@
 """
 Created on Sat Oct 30 10:39:23 2021
 
-@author: filip
+@author: Filipe Pacheco
 
 Criar uma RNA para prever a qualidade do vinho baseado em suas características
 
